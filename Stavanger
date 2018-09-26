@@ -1,0 +1,3 @@
+URL = 'https://opencom.no/dataset/90cef5d5-601e-4412-87e4-3e9e8dc59245/resource/ee701dcb-6697-496c-ad90-6109083070b7/download/sykkeldata.csv'
+from urllib import urlretrieve
+urlretrive(URL,'bikedata.csv')
